@@ -38,25 +38,25 @@ model_name是一个 X/Y的格式，其中X是组织名，Y是模型名。
 
 **非国产**
 
-    gpt-oss-20b/120b(目前为止最好用的推理模型): openai/gpt-oss-20b, openai/gpt-oss-120b
+- gpt-oss-20b/120b(目前为止最好用的推理模型): openai/gpt-oss-20b, openai/gpt-oss-120b
 
-    Llama 4: meta-llama/Llama-4-Scout-17B-16E-Instruct, meta-llama/Llama-4-Maverick-17B-128E-Instruct
+- Llama 4: meta-llama/Llama-4-Scout-17B-16E-Instruct, meta-llama/Llama-4-Maverick-17B-128E-Instruct
 
-    mistral 3 small（欧洲最好的模型）: mistralai/Ministral-3-8B-Instruct-2512
+- mistral 3 small（欧洲最好的模型）: mistralai/Ministral-3-8B-Instruct-2512
 
-    mistral 3 large: mistralai/Mistral-Large-3-675B-Instruct-2512
+- mistral 3 large: mistralai/Mistral-Large-3-675B-Instruct-2512
 
 
 
 **OCR模型**
 
-    腾讯混元：tencent/HunyuanOCR
+- 腾讯混元：tencent/HunyuanOCR
 
-    deepseek：deepseek-ai/DeepSeek-OCR
+- deepseek：deepseek-ai/DeepSeek-OCR
 
-    百度paddle：PaddlePaddle/PaddleOCR-VL
+- 百度paddle：PaddlePaddle/PaddleOCR-VL
 
-    英伟达nemotron: nvidia/NVIDIA-Nemotron-Parse-v1.1 
+- 英伟达nemotron: nvidia/NVIDIA-Nemotron-Parse-v1.1 
 
 
 
