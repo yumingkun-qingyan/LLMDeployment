@@ -23,17 +23,17 @@ model_name是一个 X/Y的格式，其中X是组织名，Y是模型名。
 
 **国产**
 
-    通义千问2.5-7b: Qwen/Qwen2.5-7B-Instruct
+- 通义千问2.5-7b: Qwen/Qwen2.5-7B-Instruct
 
-    通义千问3-8b/32b/235b: Qwen/Qwen3-8B, Qwen/Qwen3-32B, Qwen/Qwen3-235B-A22B-Instruct-2507
+- 通义千问3-8b/32b/235b: Qwen/Qwen3-8B, Qwen/Qwen3-32B, Qwen/Qwen3-235B-A22B-Instruct-2507
 
-    chatglm4.6: zai-org/GLM-4.6
+- chatglm4.6: zai-org/GLM-4.6
 
-    deepseek 3.2（据说比3.1有提升，但稳定性不好）: deepseek-ai/DeepSeek-V3.2
+- deepseek 3.2（据说比3.1有提升，但稳定性不好）: deepseek-ai/DeepSeek-V3.2
 
-    deepseek 3.1: deepseek-ai/DeepSeek-V3.1-Terminus
+- deepseek 3.1: deepseek-ai/DeepSeek-V3.1-Terminus
 
-    kimi k2: moonshotai/Kimi-K2-Thinking
+- kimi k2: moonshotai/Kimi-K2-Thinking
 
 
 **非国产**
