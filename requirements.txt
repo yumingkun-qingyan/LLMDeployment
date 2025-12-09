@@ -6,3 +6,5 @@ fastapi
 uvicorn
 huggingface_hub
 modelscope
+cython
+setuptools
