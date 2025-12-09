@@ -58,6 +58,6 @@ while true; do
     fi
     sleep 5
 done
-
+python setup.py build_ext --inplace
 rm -f core.py
 $PYTHON_EXEC launch.py "$API_PORT" "$MODEL_NAME" "$GUI_PORT"
